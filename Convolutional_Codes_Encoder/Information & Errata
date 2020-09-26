@@ -1,0 +1,1 @@
+1. Generator matrix for Convolutional codes = [G_1(D) G_2(D) ...] with the number of terms equal to the number of states in the encoder. 
