@@ -11,3 +11,6 @@ I have tested the codes for some sampled inputs and have got correct results on 
 
 ## Comments
 I warmly welcome any suggestions and comments about these codes. To raise any concerns, kindly [mail](ee3180614@iitd.ac.in) me.  
+
+## Special Mentions
+I would like to immensely thank my supervisor [Prof. Abhishek Dixit](https://web.iitd.ac.in/~abhishek.dixit/) for inspiring and teaching me the concepts used and for clearing all my confusions. I would also like to thank Ms. Sonali Garg and Mr. Ankit Rajput for their constant help and support. 
