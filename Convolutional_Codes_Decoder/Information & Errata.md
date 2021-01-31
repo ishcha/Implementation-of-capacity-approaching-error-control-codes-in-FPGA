@@ -14,7 +14,7 @@
   - It is an IP of Vivado.
 - _Test bench_ for the code is also provided. 
   - It is used to test the code under its current specifications.
-- The zip file contains the entire Vivado folder created on my local system in a compressed way. 
+
 
 ### Key Specifications of the C++ code
   - This code prepared for the received vector length = 14. 
