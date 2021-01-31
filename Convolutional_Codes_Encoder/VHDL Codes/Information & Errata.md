@@ -20,4 +20,4 @@ The specifications of this code are as follows:
 - n, r are redundant generic variables, which were in use earlier for testing purposes. 
 
 ## Comments
-I warmly welcome any suggestions and comments about these codes. To raise any concerns, kindly [mail](ishaic522@gmail.com) me.  
+I warmly welcome any suggestions and comments about these codes. To raise any concerns, kindly [mail](ee3180614@iitd.ac.in) me.  
